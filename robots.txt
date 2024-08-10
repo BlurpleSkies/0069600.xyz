@@ -1,0 +1,4 @@
+Sitemap: https://www.0069600.xyz/sitemap.xml
+
+User-agent: *
+Allow: /
